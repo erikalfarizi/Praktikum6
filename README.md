@@ -45,10 +45,16 @@
 - &nbsp; Mengubah nilai mahasiswa "John" menjadi 95.
 - &nbsp; Menampilkan daftar nilai mahasiswa setelah perubahan.
 
-<h2> contoh </h2>
+<h2> Berikut adalah contohnya </h2>
 
 ![gambar](praktikkum6.png)
 
 <h1> latihan 1 </h1>
+<h2> Mengubah kode dibawah ini menjadi fungsi menggunakan lambda. </h2>
+
+![gambar](kode.png)
+
+<h2> Berikut adalah kode yang diubah menggunakan lambda: </h2>
 
 ![gambar](Latihan1.png)
+<h3> Dengan menggunakan lambda, kita dapat menyederhanakan fungsi-fungsi kecil seperti ini tanpa perlu mendefinisikan secara terpisah dengan kata kunci def. </h3>
