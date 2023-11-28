@@ -1,4 +1,7 @@
 <h1> praktikum 6 </h1>
+<h2> Membuat program sederhana dengan mengaplikasikan penggunaan fungsi
+yang akan menampilkan daftar nilai mahasiswa, </h2>
+
 <h2> Langkah 1: </h2>
 
  &nbsp; Inisialisasi dictionary data_mahasiswa sebagai wadah untuk menyimpan data mahasiswa. Dictionary ini akan memiliki format {nama: nilai}.
