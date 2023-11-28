@@ -45,7 +45,4 @@
 - &nbsp; Mengubah nilai mahasiswa "John" menjadi 95.
 - &nbsp; Menampilkan daftar nilai mahasiswa setelah perubahan.
 
-![ss](Screenshot (3).png)
-
-
-
+![gambar](praktikkum6.png)
