@@ -50,3 +50,5 @@
 ![gambar](praktikkum6.png)
 
 <h1> latihan 1 </h1>
+
+![gambar](Latihan1.png)
