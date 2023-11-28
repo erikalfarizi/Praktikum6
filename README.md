@@ -1,4 +1,4 @@
-<h1> penjelasan </h1>
+<h1> praktikum 6 </h1>
 <h2> Langkah 1: </h2>
 
  &nbsp; Inisialisasi dictionary data_mahasiswa sebagai wadah untuk menyimpan data mahasiswa. Dictionary ini akan memiliki format {nama: nilai}.
@@ -45,4 +45,8 @@
 - &nbsp; Mengubah nilai mahasiswa "John" menjadi 95.
 - &nbsp; Menampilkan daftar nilai mahasiswa setelah perubahan.
 
+<h2> contoh </h2>
+
 ![gambar](praktikkum6.png)
+
+<h1> latihan 1 </h1>
