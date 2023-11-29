@@ -52,6 +52,11 @@ yang akan menampilkan daftar nilai mahasiswa, </h2>
 
 ![gambar](praktikkum6.png)
 
+<h1> latihan 1 </h1>
+<h2> Mengubah kode dibawah ini menjadi fungsi menggunakan lambda. </h2>
+
+![gambar](kode.png)
+
 <h2> Berikut adalah kode yang diubah menggunakan lambda: </h2>
 
 ![gambar](Latihan1.png)
