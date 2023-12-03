@@ -52,6 +52,8 @@ yang akan menampilkan daftar nilai mahasiswa, </h2>
 
 ![gambar](praktikkum6.png)
 
+<h2> Berikut adalah flowchartnya </h2>
+
 <h1> latihan 1 </h1>
 <h2> Mengubah kode dibawah ini menjadi fungsi menggunakan lambda. </h2>
 
