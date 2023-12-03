@@ -54,7 +54,8 @@ yang akan menampilkan daftar nilai mahasiswa, </h2>
 
 <h2> Berikut adalah flowchartnya </h2>
 
-![gambar](Screenshot 2023-12-03 152721.png)
+![gambar](flowchart11.png)
+
 <h1> latihan 1 </h1>
 <h2> Mengubah kode dibawah ini menjadi fungsi menggunakan lambda. </h2>
 
